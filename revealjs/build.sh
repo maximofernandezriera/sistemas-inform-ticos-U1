@@ -27,7 +27,7 @@ html() {
         --csl="${ASSETSDIR}/citation-style.csl" \
         --from="markdown+tex_math_single_backslash+tex_math_dollars" \
         --to="revealjs" \
-        --output="${BUILDDIR}/output.html" \
+        --output="${BUILDDIR}/index.html" \
         --variable revealjs-url="./reveal.js" \
         --mathjax \
         --standalone
