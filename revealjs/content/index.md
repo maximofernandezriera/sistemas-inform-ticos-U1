@@ -136,4 +136,4 @@ Sistema Internacional vs Binario
 
 ---
 
-![](https://revista.jovenclub.cu/wp-content/uploads/2016/03/Tabla-5.jpg)
+![](https://revista.jovenclub.cu/wp-content/uploads/2016/03/Tabla-5.jpg) 
