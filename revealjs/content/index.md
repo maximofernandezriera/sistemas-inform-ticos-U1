@@ -1,7 +1,7 @@
 ---
 author: Máximo Fernández Riera
 title: Sistemas informáticos
-date: "2021-09-27"
+date: "2021-09-27 - Creative commons" 
 urlcolor: "solarized"
 theme: black
 transition: fade
@@ -137,3 +137,57 @@ Sistema Internacional vs Binario
 ---
 
 ![](https://revista.jovenclub.cu/wp-content/uploads/2016/03/Tabla-5.jpg) 
+
+---
+
+## Los prefijos del **Sistema binario** utilizan **potencias de 2**,mientras que **el SI** utiliza **potencias de 10**.
+
+## Los fabricantes de discos duros utilizan el sistema decimal, pero el ordenador calcula la capacidad mediante el Sistema Binario. 
+
+---
+
+## Usamos la  siguiente fórmula para calcular la capacidad en binario:
+
+---
+
+ <img src="/home/maximo/Slides/Markdown-Templates/images/image2.png"/>
+
+---
+
+* *N* es la capacidad del fabricante  
+* *y* es el prefijo equivalente en decimal  
+* *x* es el prefijo equivalente en binario
+
+---
+
+## ¿Qué capacidad, en Sistema Binario, tiene un disco duro de 120 GB según su fabricante?
+
+Vamos.
+
+---
+
+## Sistema Internacional vs Binario (III)
+
+## SOLUCIÓN a la confusión: se introducen nuevos prefijos.
+
+---
+
+<img src="/home/maximo/Slides/Markdown-Templates/images/tabla.png"/>
+
+---
+
+## Introducción a los sistemas operativos
+
+Empiezan las curvas.
+
+---
+
+## Ordenador: máquina compleja
+
+* Uno o más procesadores  
+* Discos y dispositivos de almacenamiento  
+* Tarjetas de comunicaciones  
+* Periféricos  
+* ...
+
+---
