@@ -229,3 +229,21 @@ Empiezan las curvas.
 1. gestión de memoria  
 1. Gestión de archivos
 1. Gestión de los dispositivos de entrada y salida
+
+---
+## El kernel
+
+### El núcleo o **kernel** del sistema operativo administra todas las funciones antes mencionadas.
+
+---
+
+ ## Perspectiva histórica de los sistemas operativos
+
+ 1. Las causas principales de la evolución de los sistemas operativos han sido:
+ 1. Las actualizaciones y los nuevos tipos de hardware
+ 1. Las demandas de nuevos servicios
+ 1. La necesidad de resolver varios tipos de errores
+
+ * Los sistemas operativos, igual que el hardware, han sufrido cambios a través del tiempo.
+
+---
