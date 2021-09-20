@@ -191,3 +191,41 @@ Empiezan las curvas.
 * ...
 
 ---
+
+## El usuario, los dispositivos y el sistema operativo
+
+ * Un usuario debería de conocer los detalles técnicos para controlar a la perfección los dispositivos → solución imposible.
+
+ * Hay que buscar una solución a este problema de manera que un usuario cualquiera pueda utilizar fácilmente la máquina.
+
+---
+
+## El sistema operativo es una capa más
+
+* Capa de software que aísla el hardware de los usuarios.
+
+1. Hardware
+
+2. Sistema Operativo
+
+3. Software
+
+---
+
+## El sistema operativo tiene 3 objetivos principales:
+
+1. **Comodidad:** hace que el ordenador sea más fácil de utilizar.
+1. **Eficiencia:** permite que los recursos del sistema se utilicen de forma más eficiente.
+1. **Capacidad de evolución:** está construido de forma que permita un desarrollo continuo (actualizaciones, correcciones, nuevos  servicios,...)
+
+---
+
+## Funciones del sistema operativo
+
+* Las funciones principales que debe realizar un sistema operativo son las siguientes:
+
+1. Gestión de usuarios  
+1. Gestión de procesos  
+1. gestión de memoria  
+1. Gestión de archivos
+1. Gestión de los dispositivos de entrada y salida
