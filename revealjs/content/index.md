@@ -124,9 +124,9 @@ transition: fade
 
 ---
 
-## ¿Qué posible **confusión** encuentra entre el Sistema Internacional y el binario?
+## Sistema Internacional vs Binario
 
-Sistema Internacional vs Binario
+## ¿Qué posible **confusión** encuentra entre el Sistema Internacional y el binario?
 
 ---
 
@@ -231,19 +231,19 @@ Empiezan las curvas.
 1. Gestión de los dispositivos de entrada y salida
 
 ---
+
 ## El kernel
 
 ### El núcleo o **kernel** del sistema operativo administra todas las funciones antes mencionadas.
 
 ---
 
- ## Perspectiva histórica de los sistemas operativos
+## Perspectiva histórica de los sistemas operativos
 
  1. Las causas principales de la evolución de los sistemas operativos han sido:
  1. Las actualizaciones y los nuevos tipos de hardware
  1. Las demandas de nuevos servicios
  1. La necesidad de resolver varios tipos de errores
-
- * Los sistemas operativos, igual que el hardware, han sufrido cambios a través del tiempo.
+ 1. Los sistemas operativos, igual que el hardware, han sufrido cambios a través del tiempo.
 
 ---
